@@ -4,8 +4,8 @@ The aim of the project is to facilitate the creation of Flashcards using the Qui
 
 **The programme is free of charge and has been created for educational purposes. You run the programme at your own risk.**
 # Instruction
-1. create your own list of vocabulary/phrases in a txt file. Each item should be on a separate line
-2. run file one using anaconda or vscode [1 Cambridge webscraping.ipynb](https://github.com/Jkfre247/auto-flashcard-Quizlet-creator/blob/main/1%20Cambridge%20webscraping.ipynb)
+1. Create your own list of vocabulary/phrases in a txt file. Each item should be on a separate line
+2. Run file one using anaconda or vscode [1 Cambridge webscraping.ipynb](https://github.com/Jkfre247/auto-flashcard-Quizlet-creator/blob/main/1%20Cambridge%20webscraping.ipynb)
 3. Setting the name of the wordlist variable with the name of our txt file. If you wish, you can rename the csv file
 4. Activation of all code blocks
 5. Starting file [2 Quizlet creating flashcards.ipynb](https://github.com/Jkfre247/auto-flashcard-Quizlet-creator/blob/main/2%20Quizlet%20creating%20flashcards.ipynb)
