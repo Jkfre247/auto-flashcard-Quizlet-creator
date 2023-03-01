@@ -23,4 +23,5 @@ A second file is used to create the fiches [2 Quizlet creating flashcards.ipynb]
 5. Starting file [2 Quizlet creating flashcards.ipynb](https://github.com/Jkfre247/auto-flashcard-Quizlet-creator/blob/main/2%20Quizlet%20creating%20flashcards.ipynb)
 6. Assigning appropriate values to the login and password variables and to the wordlist variable assigning the name of your csv file
 7. Run all code blocks congratulations your flashcards should be created
+
 Note there may be an error related to the change of security accordingly in which case you have to find the element in question and swap it with the correspondingly found element. The programme is working correctly as of 28.02.2023
