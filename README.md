@@ -15,9 +15,7 @@ The aim of the project is to facilitate the creation of Flashcards using the Qui
 Note there may be an error related to the change of security accordingly in which case you have to find the element in question and swap it with the correspondingly found element. The programme is working correctly as of 28.02.2023
 
 # Acquisition of definitions and examples
-
 The first file called [1 Cambridge webscraping.ipynb](https://github.com/Jkfre247/auto-flashcard-Quizlet-creator/blob/main/1%20Cambridge%20webscraping.ipynb) loads our txt file in which we have our vocabulary. In my case the txt file is called [words.txt](https://github.com/Jkfre247/auto-flashcard-Quizlet-creator/blob/main/words.txt). It goes through each word available extracting the definition and usage examples from the cambridge dictionary using the scraping process. All depending on the availability and correctness of the word. If the word is entered correctly it will retrieve the definition and examples. We get a finished file which will be used in the second section [gotowy.csv](https://github.com/Jkfre247/auto-flashcard-Quizlet-creator/blob/main/gotowy.csv).
-
 # Creating flashcards
 A second file is used to create the fiches [2 Quizlet creating flashcards.ipynb](https://github.com/Jkfre247/auto-flashcard-Quizlet-creator/blob/main/2%20Quizlet%20creating%20flashcards.ipynb) In this file, the program goes through a couple of steps
 * Logging in to the platform (really good security).
